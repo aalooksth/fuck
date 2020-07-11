@@ -1,8 +1,8 @@
 ---
 published: true
+layout: post
+title: Welcome to my website and Thank you
 ---
-## Welcome to my website and Thank you
-
 Hey there, you're welcome to my personal website, which I intend to use as a platform to express my thoughts through the blog and experiment various stuffs in web. Feel free to see around and contact me for anything I could be useful for.
 
 I can't end this without thanking the following:
