@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Alok Shrestha
-subtitle: Better tomorrow
+subtitle: Good today, Better tomorrow
 description: >- # this means to ignore newlines until "baseurl:"
   just a weird guy fiddling around stuffs around him; breaking things, fixing things and most importantly learning things in the city of Kathmandu, Nepal.
 author: Alok Shrestha
