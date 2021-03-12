@@ -9,12 +9,12 @@
 
 Please find the resources you need below:
 
-{%- capture list_items -%}
+#{%- capture list_items -%}
 GBD Tasklog
 Show lunch price and today's menu
 Wanna Thank or Request some tool to make life easier at GBD?
-{%- endcapture -%}
-{% include list.html title="Table of Contents" type="toc" %}
+#{%- endcapture -%}
+#{% include list.html title="Table of Contents" type="toc" %}
 
 ## GBD Tasklog
 > Link: [GBD Tasklog](GBD-Tasklog.htm)
